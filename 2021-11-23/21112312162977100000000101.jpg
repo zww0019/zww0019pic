@@ -1,0 +1,589 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <title>88电影资源网--高清晰，高带宽，专业的电影视频资源采集！</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta name="keywords" content="88电影资源网--高清晰，高带宽，专业的电影视频资源采集！" /> 
+  <meta name="description" content="88电影资源网--高清晰，高带宽，专业的电影视频资源采集！" />
+  <link href="/template/m1938/css/home.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery.js"></script>
+
+<script>var SitePath='/',SiteAid='10',SiteTid='',SiteId='';</script>
+<script src="/template/m1938/js/home.js"></script>
+ </head>
+ <body>   
+   <table border="0" width="100%" bgcolor="#FFFC00" style="font-size: 12px" cellspacing="5" cellpadding="5" height="30">
+  <tbody><tr><td>
+	<p align="center"><b><span class="STYLE2">本站域名被墙 请广大站长使用www.88zy.net这个域名进行访问
+	 </span><br>
+	  <br>
+	 88资源采集傻瓜教程小白请看 <a href="http://www.88zy.net/help.html" target="blank">http://www.88zy.net/help.html</a></b><br>
+	  <br>
+<b><font color="#FF0000">公告：郑重承诺：资源永久免费,资源不含任何联盟富媒体弹窗广告,只有三次走马灯水印广告(承诺绝不影响用户体验)</font></b><br>
+<b><font color="#FF0000">播放地址www2.88zyw.net更换为www2.88zy.live  播放地址cnc2.88zyw.net更换cnc2.88zy.live</font></b><br>
+<b><font color="#FF0000">播放地址v.js4177.org更换为v.88zy.site  播放地址v2.js4177.org更换为v2.88zy.site</font></b><br>
+<b><font color="#FF0000">解析地址：https://www.88zy.live/m3u8/?url=</font></b><br>
+88资源分享群：<font color="red"><b><a target="_blank" href="https://jq.qq.com/?_wv=1027&k=nKx1Hptj"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="*" title="*">88资源群</a></a>（验证：88zy）</b></font><br>
+    </p></td>
+</tr></tbody></table>
+<div class="xing_top">
+<ul>
+	<li class="xing_top_left"><img src="/images/logo.gif" width="200" height="60" alt="88电影资源网--高清晰，高带宽，专业的电影视频资源采集！" /></li>
+	<li class="xing_top_center">
+	<div class="search">
+             <div class="search-inner">
+                 <form action="/index.php?m=vod-search" method="post">
+                    <input type="text" x-webkit-speech="" autocomplete="off" name="wd" id="wd" class="search-text" onblur="if(this.value==''){ this.value='100万部影片任你搜索';this.style.color='#cfcdcd';}" onfocus="if(this.value=='100万部影片任你搜索'){this.value='';this.style.color='';}" value="100万部影片任你搜索">
+                    <input type="hidden" name="submit" value="search">
+                    <input type="submit" class="search-btn" value="搜索">
+                 </form>
+             </div>
+          </div>
+	</li>
+	<li class="xing_top_right">
+<div class="topright">
+  
+<ul> <a class="ge" onClick="var strHref=window.location.href;this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.88zy.net');" href="#" id="topmenu1" accesskey="1">设为首页</a> | <a href="/index.php?m=gbook-show.html">留言求片</a> </li> | <a href="jl.html">站长赞助计划</a> </li></ul>  <ul><li>今日更新：<strong>25</strong></li>
+ <li>本站共有影片部数：<strong>42217</strong></li>
+
+</ul>
+</div>
+</li>
+</ul>
+<div  style="clear:both"></div>
+</div>
+<div  class="sddm">
+<ul id="sddm">
+	<li><a href="/">首页</a></li>
+
+	<li><a href="/?m=vod-type-id-1.html" onmouseover="mopen('m1')" onmouseout="mclosetime()">电影</a>
+		<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/?m=vod-type-id-5.html">动作片</a><a href="/?m=vod-type-id-17.html">伦理</a><a href="/?m=vod-type-id-6.html">喜剧片</a><a href="/?m=vod-type-id-7.html">爱情片</a><a href="/?m=vod-type-id-8.html">科幻片</a><a href="/?m=vod-type-id-9.html">恐怖片</a><a href="/?m=vod-type-id-10.html">剧情片</a><a href="/?m=vod-type-id-11.html">战争片</a><a href="/?m=vod-type-id-25.html">欧美片</a>
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-2.html" onmouseover="mopen('m2')" onmouseout="mclosetime()">连续剧</a>
+		<div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/?m=vod-type-id-12.html">国产剧</a><a href="/?m=vod-type-id-13.html">港台剧</a><a href="/?m=vod-type-id-14.html">日韩剧</a><a href="/?m=vod-type-id-15.html">欧美剧</a><a href="/?m=vod-type-id-16.html">东南亚剧</a>
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-18.html" onmouseover="mopen('m3')" onmouseout="mclosetime()">性感</a>
+		<div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-4.html" onmouseover="mopen('m4')" onmouseout="mclosetime()">动漫</a>
+		<div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/?m=vod-type-id-21.html">日本动漫</a><a href="/?m=vod-type-id-22.html">国产动漫</a><a href="/?m=vod-type-id-23.html">欧美动漫</a><a href="/?m=vod-type-id-24.html">里番</a>
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-3.html" onmouseover="mopen('m5')" onmouseout="mclosetime()">综艺</a>
+		<div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-20.html" onmouseover="mopen('m6')" onmouseout="mclosetime()">纪录片</a>
+		<div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        
+		</div>
+	</li>
+
+<span style="float:right"><a href="help.html"  style="font-size:24px;color:#fff;font-weight:bold;">采集教程帮助中心</a></span>
+</ul>
+<div  style="clear:both"></div>
+
+</div> 
+     <div class="container">
+
+		<div class="nvc">
+			<dl>
+				<dt>
+					<span>当前位置</span>
+					<i class="arrow"><b class="a_outer"></b><b class="a_inner"></b></i>
+				</dt>
+				<dd><a href="/">首页</a></dd>
+			</dl>
+		</div>
+</div>
+  <div class="xing_vb"> 
+   <ul>
+  <li><span class="xing_vb1">影片名称</span><span class="xing_vb2">影片类别</span><span class="xing_vb3">更新时间</span></li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56798.html" target="_blank">香山叶正红</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56797.html" target="_blank">陪你逐风飞翔</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56796.html" target="_blank">逆青春第三季</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56795.html" target="_blank">这个王妃有点萌</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56794.html" target="_blank">这个王妃有点萌</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56793.html" target="_blank">许纯纯的茶花运</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56792.html" target="_blank">致命感应</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56791.html" target="_blank">民警老林的幸福生活更新至02集</a></span> 
+<span class="xing_vb5">连续剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56790.html" target="_blank">星际牛仔.第一季</a></span> 
+<span class="xing_vb5">欧美剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56789.html" target="_blank">恐怖直播</a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56788.html" target="_blank">外卖骑士</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56787.html" target="_blank">入住请登记更新至12集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56626.html" target="_blank">问天录更新至32集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56656.html" target="_blank">铸匠更新至34集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56760.html" target="_blank">那是一个大小姐更新至21集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56538.html" target="_blank">第十二秒更新至28集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56688.html" target="_blank">杉杉来吃</a></span> 
+<span class="xing_vb5">东南亚剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56613.html" target="_blank">星辰大海更新至40集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56558.html" target="_blank">星空下的仁医更新至25集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56766.html" target="_blank">我和我的三个姐姐更新至12集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56662.html" target="_blank">当家主母更新至26集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56534.html" target="_blank">嘉南传更新至40集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56639.html" target="_blank">和平之舟更新至32集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56755.html" target="_blank">不惑之旅更新至12集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56666.html" target="_blank">一见倾心更新至20集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-23</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56786.html" target="_blank">永不退缩：反抗</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56785.html" target="_blank">战疫之疯狂的口罩</a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56784.html" target="_blank">巨兽岛</a></span> 
+<span class="xing_vb5">科幻片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56783.html" target="_blank">太阳的后裔</a></span> 
+<span class="xing_vb5">日韩剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56782.html" target="_blank">兰陵王之泣血刀锋</a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56781.html" target="_blank">不速来客</a></span> 
+<span class="xing_vb5">喜剧片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56537.html" target="_blank">无神之地不下雨</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56682.html" target="_blank">斛珠夫人更新至24集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56612.html" target="_blank">斗破苍穹 特别篇3</a></span> 
+<span class="xing_vb5">国产动漫</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56765.html" target="_blank">心跳恋爱更新至10集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56747.html" target="_blank">关于前辈很烦人的事更新至07集</a></span> 
+<span class="xing_vb5">日本动漫</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-22</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56780.html" target="_blank">风犬少年的天空</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56779.html" target="_blank">狙击之王 </a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56778.html" target="_blank">塔米·菲的眼睛</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56777.html" target="_blank">地狱花园 </a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56776.html" target="_blank">在糟糕的日子里</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56775.html" target="_blank">圣诞韵律</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56774.html" target="_blank">养虎为患 第二季</a></span> 
+<span class="xing_vb5">欧美剧</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56773.html" target="_blank">偷渡者</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56772.html" target="_blank">低头遇见爱</a></span> 
+<span class="xing_vb5">爱情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56771.html" target="_blank">Soho区惊魂夜</a></span> 
+<span class="xing_vb5">欧美片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56684.html" target="_blank">闻香识公子更新至24集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56768.html" target="_blank">浮尘下的枪声更新至12集</a></span> 
+<span class="xing_vb5">国产剧</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-52850.html" target="_blank">斗罗大陆 更新至183集</a></span> 
+<span class="xing_vb5">国产动漫</span> 
+<span class="xing_vb7" class="xing_vb9">2021-11-21</span>
+</li>
+   </ul> 
+    
+   <ul>
+    <li>
+<span class="tt">&nbsp;</span>
+<span class="xing_vb4"><a href="/?m=vod-detail-id-56770.html" target="_blank">皮皮鲁与鲁西西之罐头小人</a></span> 
+<span class="xing_vb5">剧情片</span> 
+<span class="xing_vb6" class="xing_vb9">2021-11-20</span>
+</li>
+   </ul> 
+    
+</div>
+  <div class="xing_vb1"> 
+   <ul style="display:block;clear:both;">
+    <li><div class="pages" style="margin-bottom:10px;">共42217条数据&nbsp;当前:1/845页&nbsp;<em>首页</em>&nbsp;<em>上一页</em>&nbsp;<span class="pagenow">1</span>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-2.html">2</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-3.html">3</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-4.html">4</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-5.html">5</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-6.html">6</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-2.html" class="pagelink_a">下一页</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-845.html" class="pagelink_a">尾页</a>&nbsp;<input type="input" name="page" id="page" size="4" class="pagego"/><input type="button" value="跳 转" onclick="pagego('/?m=vod-index-pg-{pg}.html',845)" class="pagebtn" /></div></li>
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <!-- 底部截取标签-->
+<div class="foot">
+          <ul  class="footb">
+               <li><a href="#">关于我们</a>&nbsp; |&nbsp; <a href="" target="_blank">88电影资源网--高清晰，高带宽，专业的电影视频资源采集！</a>&nbsp;  |&nbsp; <a href="#">客服中心</a>  |&nbsp;  </li>
+			   <li>本站所有内容均来自互联网，如果本站部分内容侵犯您的版权请告知，在必要证明文件下我们第一时间撤除</li>
+			   <li>Copyright ©2015-2016  All Rights Reserved <a href="http://www.88zy.net" target="_blank">www.88zy.net</a> · <a href="/index.php?m=map-baidu.html" target="_blank">百度地图</a> · <a href="/index.php?m=map-google.html" target="_blank">google地图</a> · <a href="/index.php?m=map-rss.html" target="_blank">rss订阅</a></li>
+			   
+          </ul>
+<!-- Histats.com  START (html only)-->
+<a href="/" alt="page hit counter" target="_blank" >
+<embed src="//s10.histats.com/511.swf"  flashvars="jver=1&acsid=4591295&domi=4"  quality="high"  width="95" height="18" name="511.swf"  align="middle" type="application/x-shockwave-flash" pluginspage="//www.macromedia.com/go/getflashplayer" wmode="transparent" /></a>
+<img  src="//sstatic1.histats.com/0.gif?4591295&101" alt="" border="0">
+<!-- Histats.com  END  -->
+</div>  
+ </body>
+</html>
