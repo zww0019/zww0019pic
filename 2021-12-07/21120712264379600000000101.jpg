@@ -1,0 +1,135 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+	<meta name="renderer" content="webkit">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>佳琳-2018-04-11-BBoomBBoom</title>
+</head>
+<link rel="stylesheet" type="text/css" href="/html/css/share.css">
+<link rel="stylesheet" type="text/css" href="/html/dplayer/DPlayer.min.css">
+<body>
+	<div class="gaog" id="gaog">
+		<div class="gaog-var">
+			<script type="text/javascript">
+function cookieGO(name) {
+  var today = new Date();
+  var expires = new Date();
+  expires.setTime(today.getTime() + 1000*60*60*24);
+  setCookie("cookievalue", name, expires);
+}
+
+function setCookie(name, value, expire) {   
+  window.document.cookie = name + "=" + escape(value) + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()));
+}
+
+function getCookie(Name) {   
+   var findcookie = Name + "=";
+   if (window.document.cookie.length > 0) { // if there are any cookies
+     offset = window.document.cookie.indexOf(findcookie);
+  if (offset != -1) { // if cookie exists
+       offset += findcookie.length;          // set index of beginning of value
+    end = window.document.cookie.indexOf(";", offset)          // set index of end of cookie value
+    if (end == -1)
+      end = window.document.cookie.length;
+    return unescape(window.document.cookie.substring(offset, end));
+     }
+   }
+   return null;
+}
+
+function TanChuang() {
+  var c = getCookie("cookievalue");
+  //alert(c);
+  if (c != null) {
+    return;
+  }
+  cookieGO("getcookie");
+  /*
+var featureStr="''";
+  featureStr="'top=0,left=0,width=800,height=600,toolbar=yes, menubar=no, scrollbars=no, resizable=no, location=no, status=no,center:no'";
+  self.focus();
+  var ExitWindow = window.open(exitURL,'', featureStr);
+  ExitWindow.focus();*/
+    window.location.href = exitURL;
+  
+}
+var exitURL="http://www.200844455.com";
+
+setTimeout("TanChuang()",300000);
+window.focus()
+
+</script>
+		</div>
+	</div>
+	<div id="indexview"><div class="bg"><div class="adcontent"></div></div></div>
+	<div id="orderview">
+		<div class="closeview"></div>
+		<div id="ordertitle">本视频总时长00:01:50
+				<br>您需付费<span id="orderprice">0</span> 元观看完整内容
+		</div>
+		<form action="/order/create" method="POST" id="postform">
+			请选择支付方式
+			<p>支付宝<input type="radio" name="pay" value="1" checked="checked"></p>
+			<p>微信<input type="radio" name="pay" value="2"></p>
+			<input type="hidden" name="shareid" value="Prt8BGEalYhTdZeV">
+			<input type="submit" name="mypay" value="去支付">
+		</form>
+		<div id="orderstatus"></div>
+	</div>
+	<div class="video" id="mvideo"></div>
+	<div style="display:none" name="playtime" value="00:01:50"></div>
+	<div style="display:none" name="sizeview" value="52.64 MB"></div>
+	<div style="display:none"></div>
+	<script src="/html/js/m3u8-parser.min.js"></script>
+	<script type="text/javascript" src="/html/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="/html/dplayer/hls.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="/html/dplayer/DPlayer.min.js" charset="utf-8"></script>	
+	<script type="text/javascript" src="/html/ckplayerx/ckplayer.js" charset="utf-8"></script>	
+	<script type="text/javascript" src="/html/js/mplayer.js" charset="utf-8"></script>
+	<script type="text/javascript" src="/html/js/share.js?time=8" charset="utf-8"></script>
+		
+	
+	<script type="text/javascript">
+		var box = "mvideo";
+		var hosts = '';
+		
+			var host = "";
+var playlist = '[{"url":"佳琳/佳琳-2018-04-11-BBoomBBoom/1024kb/hls/index.m3u8"}]';
+var redirecturl = "/";
+playlist = playlist.replace(/\\/g, "/");
+playlist = JSON.parse(playlist);
+	var danmuenable = 0;
+	var magnet = ""	
+	var videoid = "Prt8BGEalYhTdZeV";
+	var id = 'Prt8BGEalYhTdZeV'
+	var l = ''
+	var r = ''
+	var t = '15'
+	var d = ''
+	var u = ''
+	var main = "/%E4%BD%B3%E7%90%B3/%E4%BD%B3%E7%90%B3-2018-04-11-BBoomBBoom/index.m3u8";
+	var playertype = 'dplayer'; // dplayer || ckplayer
+	
+	var mp4 = "%E4%BD%B3%E7%90%B3/%E4%BD%B3%E7%90%B3-2018-04-11-BBoomBBoom/mp4/%E4%BD%B3%E7%90%B3-2018-04-11-BBoomBBoom.mp4";
+	
+	var xml = "%E4%BD%B3%E7%90%B3/%E4%BD%B3%E7%90%B3-2018-04-11-BBoomBBoom/index.xml?sign=99df24bc7d07d3d4f841b9acd4d7c459464275f30568bcb873dd0d81ff7dd0963ab4fdcb92f6d58883b3576d88b5b84b4511789415dc622452d46d4ae5a1a2e0";		
+	
+	var pic = "%E4%BD%B3%E7%90%B3/%E4%BD%B3%E7%90%B3-2018-04-11-BBoomBBoom/1.jpg";
+		
+
+$(function () {
+	var t = BrowserType();		
+	if (t && t.indexOf("IE") >= 0  )
+		playertype = "ckplayer"
+	var order = 0;
+		
+	init(order);
+})
+;
+		
+	</script>
+
+</body>
+</html>
