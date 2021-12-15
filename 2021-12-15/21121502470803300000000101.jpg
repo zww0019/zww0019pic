@@ -1,0 +1,439 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <link href="/template/ss/css/home.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery.js"></script>
+
+<script>var SitePath='/',SiteAid='10',SiteTid='',SiteId='';</script>
+<script src="/template/ss/js/home.js"></script>
+<script src="/template/ss/js/jquery.min.js"></script>
+<script type="text/javascript">
+<!--
+var timeout= 500;
+var closetimer= 0;
+var ddmenuitem= 0;
+function mopen(id)
+{	
+	mcancelclosetime();
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+	ddmenuitem = document.getElementById(id);
+	ddmenuitem.style.visibility = 'visible';
+}
+function mclose()
+{
+	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+}
+function mclosetime()
+{
+	closetimer = window.setTimeout(mclose, timeout);
+}
+function mcancelclosetime()
+{
+	if(closetimer)
+	{
+		window.clearTimeout(closetimer);
+		closetimer = null;
+	}
+}
+document.onclick = mclose; 
+// -->
+</script>
+<head> 
+  <title>605资源采集网-免费在线观看最新热播高清电影电视剧综艺视频</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <meta name="keywords" content="[vod:typename][vod:name],[vod:name]剧情介绍,[vod:name]演员表,605资源网" /> 
+  <meta name="description" content="[vod:typename]《[vod:typepname][vod:name]》剧情介绍:[vod:content len=100]" />
+  <base target="_blank" />
+ </head>
+ <body>   
+  
+<table border="0"  background="http://www.605zy.com/template/caonima/images/201801181516213022.png" width="100%" style=" background-size:100% 100%;  font-size: 12px" cellspacing="0" cellpadding="0" height="30"><tr><td>
+<!--bgcolor="#FF0000"  width="100%"  -->
+<p align="center">	<b><font color="#FFFC00"><br><b><font color="#ffffff">公告：605资源永久免费，播放速度最快的资源，打造全网无广告资源(承诺绝不影响用户体验)</font></b><br>
+<b><span style="font-size: 18px;color: red;font-weight: bold;"><a href="/605/index.html" style="color: yellow;">→→→605采集教程←←←点击进入→→→605资源采集帮助中心←←←</a></span><br>
+  
+<b><span style="font-size: 18px;color: red;font-weight: bold;"><a href="/全自动采集资源一键影视搭建.zip" style="color: red;">全自动采集资源一键影视搭建​(简易CMS)</a></span>  
+<br><b><font color="#ffffff">605yun解析接口：https://605zy.com/m3u8.php??url=</font></b>
+<br><b><font color="#ffffff">605m3u8解析接口：https://605zy.com/m3u8.php?url=</font></b>
+<script type="text/javascript">
+	function timer(opj){
+		$(opj).find('ul').animate({
+			marginTop : "-3.5rem"  
+			},500,function(){  
+			$(this).css({marginTop : "0.7rem"}).find("li:first").appendTo(this);  
+		})  
+	}
+	$(function(){ 
+		var num = $('.notice_active').find('li').length;
+		if(num > 1){
+		   var time=setInterval('timer(".notice_active")',3500);
+			$('.gg_more a').mousemove(function(){
+				clearInterval(time);
+			}).mouseout(function(){
+				time = setInterval('timer(".notice_active")',3500);
+			}); 
+		}
+		
+		$(".news_ck").click(function(){
+			location.href = $(".notice_active .notice_active_ch").children(":input").val();
+		})
+	});
+</script>
+<!--border-bottom: 1px solid #F0F0F0; -->
+<style type="text/css">
+/*border-bottom: 1px solid #F0F0F0;*/
+	.huadong {width: 60rem;height:4rem;padding: 0.5rem 0 0.3rem 0; position:relative;font: 12px/1.5 "Hiragino Sans GB","Microsoft YaHei",simsun;margin:0 auto;}
+	.huadong .huabox {  margin:0 auto; width: 80%; line-height: 4rem;}
+	.huadong .hdimg {float:left;line-height:0.0rem;
+    margin-top: 5px; 
+ }
+	.huadong .hdimg img { width: 100%; vertical-align:middle;}
+	.huadong h5 {font-size:1rem;float:left; line-height: 2.2rem; margin: 0.0rem 0 0 0; }
+	.huadong .gg_more { float: left;}
+	.huadong .gg_more a { font-size: 0.8rem; text-decoration:none;}
+	
+	.huadong .notice_active {
+			float: left;
+			width: 70%;
+			height: 4rem;
+			padding: 0;
+			overflow: hidden;
+			position: relative;
+	}
+	.huadong .notice_active li{list-style-type:none;line-height: 2.4rem;overflow: hidden;}
+	/*.huadong .notice_active li.notice_active_ch {}*/
+	.huadong .notice_active li.notice_active_ch span {color:red;font-size:1rem;display: block;overflow: hidden; width:80%;float: left;
+	overflow: hidden;margin:0 0 2rem 0;}
+	.notice_active{bottom: 12px; margin-left: 20px;}
+ 
+	.huadong .gg_more .news_ck {
+			float: left;
+			margin: 0 1rem 0 1rem;
+			color: #000;
+			width: 5rem;
+			height: 2rem;
+			line-height: 2rem;
+			display: block;
+	        	border: 1px solid #656972;
+			text-align: center;
+			border-radius: 0.7rem;
+			font-size: 0.8rem;
+			margin-top: 1rem;
+		}
+	.huadong .gg_more .news_more {
+		
+	}
+	.huadong .notice_active li.notice_active_ch em {text-align:right;float:right;color:#red;font-size:0.8rem;font-style:normal;  }
+</style>
+
+</head>
+<body>
+   <p align="center" class="textbb"> 
+    <marquee style="width: 60%; color:#fafafa;" class="textbb" onmouseout="this.start()" onmouseover="this.stop()" direction="left">
+    <a target="_blank" href="/maccms.zip"><span style="color:#E53333;font-size:16px;"><strong><span style="font-size:14px;"></span>苹果CMS采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/seacms.zip"><span style="color:#FF9900;font-size:16px;"><strong>海洋CMS采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/feifeicms.zip"><span style="color:#FF4380;font-size:16px;"><strong>飞飞CMS采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/duomicms.zip"><span style="color:#FF4380;font-size:16px;"><strong>多米CMS采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/ctcms.zip"><span style="color:#FF4380;font-size:16px;"><strong>赤兔cms采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/maxcms.zip"><span style="color:#FF9900;font-size:16px;"><strong>马克思CMS采集插件下载</strong></span></a><em><strong><span style="font-size:16px;">|</span></strong></em> <a target="_blank" href="/综合播放器整合版.zip"><span style="color:#E53333;font-size:16px;"><strong>播放器插件整合下载</strong></span></a> 
+	   </marquee>
+  
+  </p>
+<br> 
+<br>
+</td>
+　</td>
+</tr></table> 
+
+﻿<div class="xing_top">
+<ul><!--/template/ss/images/logo.gif -->
+	<li class="xing_top_left" style=""><img src="http://www.605zy.com/template/caonima/images/logo.png" alt="1111" /></li>
+	<li class="xing_top_center">
+	<div class="search">
+             <div class="search-inner">
+<br>
+                 <form action="/index.php?m=vod-search" method="post">
+                    <input type="text" x-webkit-speech="" autocomplete="off" name="wd" id="wd" class="search-text" onblur="if(this.value==''){ this.value='备用网址：605zy.cn';this.style.color='#cfcdcd';}" onfocus="if(this.value=='备用网址：605zy.cn'){this.value='';this.style.color='';}" value="备用网址：605zy.cn">
+                    <input type="hidden" name="submit" value="search">
+                    <input type="submit" class="search-btn" value="搜索">
+                 </form>
+             </div>
+          </div>
+	</li>
+	<li class="xing_top_right">
+<div class="topright">
+    <ul><li style="
+    width: 115px;
+"  >605今日更新：<strong>0</strong></li></ul>
+    <ul><li  style="
+    width: 115px;
+"  >605资源有：<strong>38377</strong></li></ul>
+	<ul><li><a target="_blank" href="http://www.605zy.vip">备用网址</a> | <a href="https://jq.qq.com/?_wv=1027&k=50seTQ7">求片请点击</a> </li></ul>	
+</div>
+</li>
+</ul>
+<div  style="clear:both"></div>
+</div>
+<div  class="sddm">
+<ul id="sddm">
+	<li><a href="/">首页</a></li>
+
+	<li><a href="/?m=vod-type-id-1.html" onmouseover="mopen('m1')" onmouseout="mclosetime()">电影</a>
+		<div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/?m=vod-type-id-5.html">动作片</a><a href="/?m=vod-type-id-6.html">喜剧片</a><a href="/?m=vod-type-id-7.html">爱情片</a><a href="/?m=vod-type-id-8.html">科幻片</a><a href="/?m=vod-type-id-9.html">恐怖片</a><a href="/?m=vod-type-id-10.html">剧情片</a><a href="/?m=vod-type-id-11.html">战争片</a><a href="/?m=vod-type-id-20.html">伦理片</a><a href="/?m=vod-type-id-21.html">纪录片</a>
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-2.html" onmouseover="mopen('m2')" onmouseout="mclosetime()">连续剧</a>
+		<div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/?m=vod-type-id-12.html">国产剧</a><a href="/?m=vod-type-id-13.html">香港剧</a><a href="/?m=vod-type-id-14.html">台湾剧</a><a href="/?m=vod-type-id-15.html">欧美剧</a><a href="/?m=vod-type-id-16.html">日本剧</a><a href="/?m=vod-type-id-17.html">韩国剧</a><a href="/?m=vod-type-id-18.html">泰国剧</a><a href="/?m=vod-type-id-19.html">海外剧</a>
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-3.html" onmouseover="mopen('m3')" onmouseout="mclosetime()">综艺</a>
+		<div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        
+		</div>
+	</li>
+
+	<li><a href="/?m=vod-type-id-4.html" onmouseover="mopen('m4')" onmouseout="mclosetime()">动漫</a>
+		<div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        
+		</div>
+	</li>
+
+	<li>
+		<a href="/?m=art-type-id-1.html">插件下载</a>
+		</li>		
+</ul>
+        </div>  
+    </div>
+</div> 
+
+     <div class="container">
+		<div class="nvc">
+			<dl>
+				<dt>
+					<span>当前位置</span>
+					<i class="arrow"><b class="a_outer"></b><b class="a_inner"></b></i>
+				</dt>
+				<dd><a href="/">首页</a></dd>
+			</dl>
+		</div>
+</div>
+
+  <div class="xing_vb"> 
+   <ul>
+    <li><span class="xing_vb1">影片名称</span><span class="xing_vb2">影片类别</span><span class="xing_vb3">更新时间</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38941.html" target="_blank">香山叶正红 第18集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:36:06</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38939.html" target="_blank">兄长大人解约吧 第18集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:35:32</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38750.html" target="_blank">智异山 第12集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-17.html" target="_blank">韩国剧</a></span> <span class="xing_vb7">2021-12-06 03:35:04</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38378.html" target="_blank">纸钞屋 第五季 第10集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-19.html" target="_blank">海外剧</a></span> <span class="xing_vb7">2021-12-06 03:34:37</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38661.html" target="_blank">真凶标签  第07集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:34:19</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38888.html" target="_blank">夜色暗涌时 第28集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:33:56</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38952.html" target="_blank">陪你逐风飞翔  第24集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:32:13</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38951.html" target="_blank">女心理师 第24集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:31:47</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38958.html" target="_blank">那时的我们 第16集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:31:26</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38893.html" target="_blank">斛珠夫人 第46集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:30:37</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38019.html" target="_blank">红色皮鞋  第83集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-17.html" target="_blank">韩国剧</a></span> <span class="xing_vb7">2021-12-06 03:30:14</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38748.html" target="_blank">和田家的男人们  第06集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:29:56</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38695.html" target="_blank">海豹突击队 第五季  第04集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-15.html" target="_blank">欧美剧</a></span> <span class="xing_vb7">2021-12-06 03:29:36</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38563.html" target="_blank">国家代表老婆 第40集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-17.html" target="_blank">韩国剧</a></span> <span class="xing_vb7">2021-12-06 03:29:10</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38921.html" target="_blank">浮尘下的枪声 第24集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:28:14</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38956.html" target="_blank">风起洛阳 第12集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:27:55</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38955.html" target="_blank">从天而降的“漫撕男” (2021) 第14集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-06 03:25:39</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38873.html" target="_blank">成为你的夜晚 第04集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-17.html" target="_blank">韩国剧</a></span> <span class="xing_vb7">2021-12-06 03:25:21</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38655.html" target="_blank">超富  第08集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:24:40</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38909.html" target="_blank">不惑之旅 第31集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:23:54</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38919.html" target="_blank">本剑仙绝不吃软饭 动态漫画 第07集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-06 03:21:18</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38781.html" target="_blank">帮我找房子吧 连载至20211128期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-3.html" target="_blank">综艺</a></span> <span class="xing_vb7">2021-12-06 03:21:01</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38918.html" target="_blank">半暖时光  第18集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:20:28</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-33207.html" target="_blank">白种元的小巷餐厅 连载至20211201期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-3.html" target="_blank">综艺</a></span> <span class="xing_vb7">2021-12-06 03:20:02</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38044.html" target="_blank">白沙的水族馆 第22集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb6">2021-12-06 03:19:36</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38652.html" target="_blank">爸妈来自二次元 第17集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-06 03:19:15</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38828.html" target="_blank">昂首阔步 第08集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-15.html" target="_blank">欧美剧</a></span> <span class="xing_vb7">2021-12-06 03:18:43</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-15027.html" target="_blank">爱情保卫战 连载至20211202期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-3.html" target="_blank">综艺</a></span> <span class="xing_vb7">2021-12-06 03:18:08</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38917.html" target="_blank">爱很美味 第14集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb7">2021-12-06 03:17:25</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38962.html" target="_blank">哎呀好身材第三季 连载至20211204期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-12.html" target="_blank">国产剧</a></span> <span class="xing_vb6">2021-12-06 03:17:07</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38533.html" target="_blank">阿衰 第六季 第21集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-06 03:14:24</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38589.html" target="_blank">阿卡普尔科 第10集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-15.html" target="_blank">欧美剧</a></span> <span class="xing_vb7">2021-12-06 03:14:03</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38677.html" target="_blank">X医生：外科医生大门未知子 第7季 第08集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:13:13</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38588.html" target="_blank">视觉监狱  第09集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:10:28</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38587.html" target="_blank">世界上最倒霉的女人 第09集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:06:54</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-14548.html" target="_blank">TV动物农场/动物农村 连载至20211128期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-3.html" target="_blank">综艺</a></span> <span class="xing_vb7">2021-12-06 03:06:07</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38586.html" target="_blank">选择项目 第10集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-06 03:05:45</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38770.html" target="_blank">4400  第05集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-15.html" target="_blank">欧美剧</a></span> <span class="xing_vb7">2021-12-06 03:05:17</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38862.html" target="_blank">2060 连载至20211203期</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-3.html" target="_blank">综艺</a></span> <span class="xing_vb7">2021-12-06 03:04:42</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38961.html" target="_blank">人生一串 第三季 第03集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-21.html" target="_blank">纪录片</a></span> <span class="xing_vb6">2021-12-04 01:47:31</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38824.html" target="_blank">人间最得意 第14集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:46:22</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38960.html" target="_blank">前科者 -新人保护司·阿川佳代 第01集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb6">2021-12-04 01:46:01</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38113.html" target="_blank">契约冷妻不好惹 第23集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:44:30</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38841.html" target="_blank">奇美拉  第07集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-17.html" target="_blank">韩国剧</a></span> <span class="xing_vb6">2021-12-04 01:44:04</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38503.html" target="_blank">平家物语  第11集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:43:48</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38007.html" target="_blank">女巨人也要谈恋爱 第24集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:43:31</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38632.html" target="_blank">迷宫标记者 第08集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-04 01:42:53</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38618.html" target="_blank">萌妻食神 第二季  第21集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:42:30</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38617.html" target="_blank">美妙魔法  第08集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-16.html" target="_blank">日本剧</a></span> <span class="xing_vb7">2021-12-04 01:41:58</span></li>
+   </ul> 
+    
+   <ul>
+    <li><span class="tt"></span><span class="xing_vb4"><a href="/?m=vod-detail-id-38760.html" target="_blank">猫之茗 第6集</a></span> <span class="xing_vb5"><a href="/?m=vod-type-id-4.html" target="_blank">动漫</a></span> <span class="xing_vb7">2021-12-04 01:41:34</span></li>
+   </ul> 
+    
+   <ul style="display:block;clear:both;">
+    <li><div class="pages" style="margin-bottom:10px;">共38377条数据&nbsp;当前:1/768页&nbsp;<em>首页</em>&nbsp;<em>上一页</em>&nbsp;<span class="pagenow">1</span>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-2.html">2</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-3.html">3</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-4.html">4</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-5.html">5</a>&nbsp;<a target="_self" class="pagelink_b" href="/?m=vod-index-pg-6.html">6</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-2.html" class="pagelink_a">下一页</a>&nbsp;<a target="_self" href="/?m=vod-index-pg-768.html" class="pagelink_a">尾页</a>&nbsp;<input type="input" name="page" id="page" size="4" class="pagego"/><input type="button" value="跳 转" onclick="pagego('/?m=vod-index-pg-{pg}.html',768)" class="pagebtn" /></div></li>
+   </ul> 
+   <div style="clear:both"></div> 
+  </div> 
+  <!-- 底部截取标签-->
+<div class="foot">
+          <ul  class="footb">
+               <li>关于我们</a>&nbsp; |&nbsp; <a href="" target="_blank">605资源网</a>&nbsp;  |&nbsp; 客服中心</a></li>
+			   <li>本网站所有内容均收集于互联网主流视频网站，不提供在线正版播放。如果侵犯了您的权益，请通知我们，我们会及时删除侵权内容，谢谢合作！</li>
+			   <li>Copyright © 33UU All Rights Reserved <a href="http://www.605zy.co" target="_blank">www.605zy.co</a> · <a href="/index.php?m=map-baidu.html" target="_blank">百度地图</a> · <a href="/index.php?m=map-google.html" target="_blank">google地图</a> · <a href="/index.php?m=map-rss.html" target="_blank">rss订阅</a></li>
+          </ul>
+</div>  
+ </body>
+</html>
